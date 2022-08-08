@@ -5,6 +5,15 @@ package memonization;
 //Tabulation- Bottom up-> Base case to top
 //https://takeuforward.org/data-structure/dynamic-programming-introduction/
 
+//Points to think of DP below..
+
+//Try to represnt a problem in terms of index
+// Do all possible ways on that index according to problem statement
+// Sum of all possible ways.., Max or min of possibilities
+
+
+//Climibing stairs is nothing but fibonacci problem
+
 
 import java.util.Arrays;
 
